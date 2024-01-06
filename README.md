@@ -16,7 +16,7 @@ This project is a full-stack web application developed using the MERN stack (Mon
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
-- **Libraries:** bcrypt, axios, and more.
+- **Libraries:** bcrypt, axios, redux, vite and more.
 
 ## Setup and Installation
 1. Clone the repository.
